@@ -3,3 +3,7 @@
 - added git repository for the EEGLab
 - all EEG data sets given are in chinese or does not translate properly
 - 
+
+
+
+Hey do you know how to use git bash? or a command prompt?
