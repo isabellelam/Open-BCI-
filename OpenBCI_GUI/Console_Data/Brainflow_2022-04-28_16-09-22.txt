@@ -1,0 +1,11 @@
+[2022-04-28 16:09:22.144] [board_logger] [info] incoming json: {"ip_address":"","mac_address":"f2:6d:5d:ee:bc:d9","serial_port":"COM3","ip_port":6677,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":""}
+[2022-04-28 16:09:22.144] [board_logger] [debug] use dyn lib: C:\Users\luxtu\Desktop\Open-BCI-\OpenBCI_GUI\GanglionLib.dll
+[2022-04-28 16:09:22.144] [board_logger] [trace] Board object created 1
+[2022-04-28 16:09:22.145] [board_logger] [debug] Library is loaded
+[2022-04-28 16:09:22.145] [board_logger] [info] use 15 as a timeout for device discovery and for callbacks
+[2022-04-28 16:09:22.153] [board_logger] [debug] ganglionlib initialized
+[2022-04-28 16:09:22.153] [board_logger] [info] search for f2:6d:5d:ee:bc:d9
+[2022-04-28 16:09:23.532] [board_logger] [debug] Trying to config Ganglion with n
+[2022-04-28 16:09:41.406] [board_logger] [debug] use stub streamer
+[2022-04-28 16:09:41.406] [board_logger] [info] use command b to start streaming
+[2022-04-28 16:09:41.483] [board_logger] [debug] start streaming

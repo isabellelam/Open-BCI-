@@ -1,0 +1,3 @@
+[2022-04-28 15:22:47.159] [board_logger] [info] incoming json: {"ip_address":"","mac_address":"","serial_port":"","ip_port":0,"ip_protocol":0,"other_info":"1","timeout":0,"serial_number":"","file":""}
+[2022-04-28 15:22:47.159] [board_logger] [trace] Board object created -2
+[2022-04-28 15:22:47.159] [board_logger] [error] write multicast group ip to ip_address field, ip port to ip_port field and original board id to other info

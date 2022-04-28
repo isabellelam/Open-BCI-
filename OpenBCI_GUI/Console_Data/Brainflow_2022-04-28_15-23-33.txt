@@ -1,0 +1,2 @@
+[2022-04-28 15:23:33.590] [board_logger] [info] incoming json: {"ip_address":"","ip_port":6677,"ip_protocol":0,"other_info":"","timeout":0,"serial_number":"","file":""}
+[2022-04-28 15:23:33.591] [board_logger] [error] invalid input json, [json.exception.type_error.302] type must be string, but is null
